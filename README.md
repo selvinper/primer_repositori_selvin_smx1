@@ -1,1 +1,2 @@
-# primer_repositori_selvin_smx1
+## enllaç al meu fitxer pdf
+[Fes un clip para veure el meu repositori](presentacio.pdf) 
